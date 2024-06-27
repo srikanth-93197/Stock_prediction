@@ -1,0 +1,4 @@
+yfinance
+tensorflow
+numpy 
+pandas
